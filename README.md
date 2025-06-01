@@ -9,4 +9,5 @@ This peoject is created by refering: (https://www.youtube.com/DaveGrayTeachesCod
 files: index.html, hours.html, about.html, contact.html and style.css
  
 - Emojis, from [Emojipedia](https://emojipedia.org/taco/).
-- Project buid onn only html and css
+- Project buid on only html and css
+- A small project focused on fundamentals of html and css

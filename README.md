@@ -6,8 +6,7 @@ This peoject is created by refering: (https://www.youtube.com/DaveGrayTeachesCod
 
 **Directions:**
 
-- There are images of the 3 web pages you need to build in the examples folder. Use them as references for what you build.
-
-- You should name your files: index.html, hours.html, and contact.html
+files: index.html, hours.html, about.html, contact.html and style.css
  
-- Emojis, from [Emojipedia](https://emojipedia.org/taco/). 
+- Emojis, from [Emojipedia](https://emojipedia.org/taco/).
+- Project buid onn only html and css
